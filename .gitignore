@@ -1,0 +1,9 @@
+config/*.xml
+data/mysql
+data/redis
+data/hk4e_database.sql
+logs
+.bootstrap.lock
+.DS_Store
+*.env
+hk4e.yml
